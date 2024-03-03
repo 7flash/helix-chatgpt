@@ -1,4 +1,6 @@
-# Integration Guide for CLI-based Text Transformation and AI Completion Program with Warp Terminal and Helix Editor
+# helix-chatgpt
+
+https://github.com/7flash/helix-chatgpt/assets/4569866/59ef07fe-ddab-4a90-b1bc-4169ff54334c
 
 ## Overview
 
